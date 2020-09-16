@@ -1,4 +1,4 @@
-### Hi there 👋
+### Check out my twitter for more info about me
 
 <!--
 **TMc42/TMc42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
