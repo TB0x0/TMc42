@@ -1,6 +1,11 @@
 ✨
 
-Currently finishing out my last semester. Check out the repos here to see notes, links, and resources.
+B.S. of Computer Science finished 2020
+
+Near term goals:
+1. Find Junior Dev position
+2. Work on M.S
+3. Volunteer with nonprofits, study interesting topics, and do coding problems to hone skills
 
 
 <!--
