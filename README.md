@@ -1,10 +1,4 @@
-✨
-
-B.S. of Computer Science finished 2020
-
-Near term goals:
-1. Work on M.S.
-2. Volunteer with nonprofits, study interesting topics, and do coding problems to hone skills
+🔭 Working on these IOGear print server utilities
 
 
 <!--
