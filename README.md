@@ -1,4 +1,4 @@
-🔭 Working on these IOGear print server utilities
+🔭 IOGear utilities are done and working great in production. No print servers randomly dropping connections anymore.
 
 
 <!--
