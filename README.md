@@ -1,4 +1,5 @@
-🔭 IOGear utilities are done and working great in production. No print servers randomly dropping connections anymore.
+🔭 IOGear utilities are done and working well in production
+⚡ Working on oneclickPDF v1.1 which will include jpg -> pdf conversion
 
 
 <!--
