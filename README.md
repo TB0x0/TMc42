@@ -1,6 +1,8 @@
 🔭 IOGear utilities are done and working well in production
 
-⚡ Working on oneclickPDF - Alpha v0.2 is released. v0.3 will be a big improvement
+⚡ oneclickPDF is at a stopping point - Alpha v0.2 is released. v0.3 will be a big improvement
+
+💬 Working on an employee management resource built on MongoDB and React with a robust set of features
 
 
 <!--
